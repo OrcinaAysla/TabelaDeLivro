@@ -9,7 +9,7 @@ Arquivo (s):
 
 Descrição: Pagina Web onde é possível cadastrar livros numa tabela da planilha.
 
-Tecnologias Utilizadas: Google App Script.
+Tecnologias Utilizadas: 
 
 <ul>
   <li>Google app scrip</li>
